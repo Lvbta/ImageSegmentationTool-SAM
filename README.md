@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-以下是针对您的代码编写的中文README文件，用于指导用户如何有效地使用您的图像分割工具。
-
----
 
 # 图像分割工具
 
@@ -126,9 +122,6 @@ segmenter.show_masks(seg_mode, masks, scores, x_off, y_off, input_box, single_la
 
 - **Segment Anything Model (SAM)**：本项目使用 SAM 模型进行图像分割。
 
----
-
-如有需要，您可以根据项目的具体要求进一步修改 README 的内容！
 =======
 # ImageSegmentationTool-SAM
 An interactive annotation case developed based on SAM for remote sensing image annotation, which can generate corresponding segmentation results based on point, multi-point, and rectangular box prompts, and convert the recognition results into vector data shp.
