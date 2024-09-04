@@ -125,4 +125,3 @@ segmenter.show_masks(seg_mode, masks, scores, x_off, y_off, input_box, single_la
 =======
 # ImageSegmentationTool-SAM
 An interactive annotation case developed based on SAM for remote sensing image annotation, which can generate corresponding segmentation results based on point, multi-point, and rectangular box prompts, and convert the recognition results into vector data shp.
->>>>>>> 8e1f2cdd4ff3661a961e99c2dca1f1a1c917073a
